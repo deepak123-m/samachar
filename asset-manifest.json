@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/samachar/static/css/main.f855e6bc.css",
+    "main.js": "/samachar/static/js/main.f8a90b95.js",
+    "static/js/453.b2157c12.chunk.js": "/samachar/static/js/453.b2157c12.chunk.js",
+    "static/media/loading.gif.gif": "/samachar/static/media/loading.gif.1a32f552ee5280e2aef9.gif",
+    "index.html": "/samachar/index.html",
+    "main.f855e6bc.css.map": "/samachar/static/css/main.f855e6bc.css.map",
+    "main.f8a90b95.js.map": "/samachar/static/js/main.f8a90b95.js.map",
+    "453.b2157c12.chunk.js.map": "/samachar/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f8a90b95.js"
+  ]
+}
